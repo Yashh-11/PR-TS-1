@@ -1,5 +1,5 @@
-let empName: string = "Yash";
-let basicSalary: number = 100000;
+let empName: string = "Dhaval";
+let basicSalary: number = 2000;
 
 let hra = 0.2 * basicSalary; 
 let da = 0.1 * basicSalary;   
